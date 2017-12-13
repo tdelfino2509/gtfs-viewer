@@ -1,0 +1,33 @@
+{
+  "name": "gtfs-viewer",
+  "version": "0.0.1",
+  "description": "GTFS Viewer",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdelfino2509/gtfs-viewer.git"
+  },
+  "keywords": [
+    "gtfs",
+    "electron",
+    "transit",
+    "gui"
+  ],
+  "author": "Josué Vicioso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdelfino2509/gtfs-viewer/issues"
+  },
+  "homepage": "https://github.com/tdelfino2509/gtfs-viewer#readme",
+  "devDependencies": {
+    "electron": "1.7.9",
+    "typescript": "2.6.2"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
